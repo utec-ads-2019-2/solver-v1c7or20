@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
-#include "Three.h"
-
+#include "Node.h"
 
 using namespace std;
 
